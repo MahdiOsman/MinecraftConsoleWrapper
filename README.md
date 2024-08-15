@@ -28,8 +28,8 @@ pip install customtkinter
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/minecraft-server-panel.git
-cd minecraft-server-panel
+git clone https://github.com/MahdiOsman/MinecraftConsoleWrapper.git
+cd MinecraftConsoleWrapper
 ```
 
 2. Place your Minecraft server's `start.bat` script in the same directory as the Python script.
@@ -37,7 +37,7 @@ cd minecraft-server-panel
 3. Run the application using Python:
 
 ```bash
-python server_panel.py
+python main.py
 ```
 
 ## How It Works
