@@ -79,5 +79,3 @@ Contributions are welcome! If you encounter bugs or have suggestions for improve
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 ```
-
-You can customize the file as needed (e.g., add your GitHub username in the clone link). This `README.md` provides an overview of your project, installation instructions, and details on how to use it.
